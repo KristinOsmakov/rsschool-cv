@@ -31,11 +31,21 @@ body {
     display: flex;
     justify-content: space-around;
 }
+.nav-link {
+    margin-left: 40px;
+    margin-right: 40px;
+}
 .nav-link a {
     text-decoration: none;
     color: #4F4E4F;
 }
-
+.header-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 0 30px;
+}
 
 
 .image {
