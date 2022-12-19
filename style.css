@@ -21,7 +21,6 @@ body {
 
 .header {
     max-width: 100%;
-    padding: 20px;
     font-family: Nunito-Bold, sans-serif;
     font-size: 18px;
     background-color: white;
@@ -155,6 +154,7 @@ body {
     transition: 0.5s;
     cursor: pointer;
 }
+
 .footer svg:hover {
     fill: #467DF2;
     transition: 1s;
